@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aneeq Tradingwala Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="profile.png" alt="Aneeq Tradingwala" class="profile-pic">
+            <h1>Aneeq Tradingwala</h1>
+            <p>Professional Trader</p>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="https://www.facebook.com/yourprofile">Facebook</a></li>
+            <li><a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a></li>
+            <li><a href="mailto:your.email@example.com">Email</a></li>
+        </ul>
+    </nav>
+    <section class="about">
+        <h2>About Me</h2>
+        <p>Write something about yourself here.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Aneeq Tradingwala</p>
+    </footer>
+</body>
+</html>
